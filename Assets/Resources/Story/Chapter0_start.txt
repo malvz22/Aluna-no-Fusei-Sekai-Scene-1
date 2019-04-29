@@ -1,0 +1,140 @@
+setBackground(livingroom)
+
+narrator "*suddenly awaken in a room with a slight headache*" 
+
+"Owww… What just happened?"
+
+"Was that just a dream?" 
+
++" Where am I?"
+
+Nella "Dylan! "
++"Dylan! "
++"Wake up! "
++"It’s time for you to go to school."
+
+narrator "Huh? "
++"Who is that? "
++"I have school? "
+
+"This is bad.. "
++"I don’t know what’s going on and I don’t know anyone."
+
+Nella "Dylan! "
++"Hey you are going to be late!"
+
+narrator"*You decided to ask who's the person is*"
+
+"Who are you?"
+
+Nella "What?? "
++"Come on there is no time to joke around."
+
+narrator "I am confused right now, "
+"I think I have been summoned here by a mysterious person."
+
+Nella "What!? "
++"How dare you call mom a mysterious person."
+
+narrator "Oh.. "
+"Sorry, but really who are you?"
+
+Nella "*Opens his door*"
++"What are you talking about? "
++"I’m Nella, your little sister. "
++"What is your problem?!"
+
+narrator"I’m sorry, "
++"but I really don’t remember anything. "
+"I don’t know where I am, I don’t know anyone here."
+
+Nella "*sigh* "
++"Jeez. Let's go."
+
+narrator "*You refused to go with Nella*"
+"No! "
++"I am really confused right now! "
+"What am i? "
++"What sorcery is this?""
+
+Nella "You need to see a doctor. "
++"Maybe you are sick or something."
+
+narrator "Good idea..."
+
+Nella "Okay i'll come with you"
+
+setBackground(hospitalRoom)
+
+move(Nella,0.1,0.7)
+
+Doctor "Good morning, how may I help?"
+
+Nella "Uhm, "
++"my brother needs help."
+
+Doctor "What is the problem?"
+
+narrator "I suddenly woke up in this world "
+"and feels like being summoned by a mysterious person."
+
+Doctor "Son, that’s your mother…"
+
+narrator "Noo! I heard a voice saying that I am a young Hero"
+"and I was summoned to this world to bring justice."
+
+Doctor "Your mother wants you to become a police?" 
+"I don’t think that is a sickness."
+
+Nella "Bro, come on snap out of it!" 
+"You are making this scene ridiculous, stop it."
+
+narrator "No. No one of you gets it!" 
+"I heard it, I felt it and it is calling me."
+
+Doctor "Oh, I see. You really do have a problem. 
++"Let me help."
+
+narrator "Please do, maybe you may know something"
+
+Doctor "Okay, you don’t need to be panic"
+
+narrator"*As the doctor checked on Dylan*"
+
+Nella "Uh, Doc?"
+
+Doctor "Yeah?"
+
+Nella "Could it be, that he suffered amnesia?"
+
+narrator "Amnesia?"
++"Is that some kind of peanut?"
+
+Nella "Thats Almond!"
++"*smacks Dylan*"
++"You retard!"
+
+Doctor "No, it doesn’t seem like it was the problem."
+
+"I think what he said might be right."
+
+narrator "What did you found?"
+
+Doctor "Haven't found anything yet. Be patient."
+
+narrator "*Then suddenly a hole appears and swallowed Dylan, Nella and the doctor.)*"
+"*They wondered what happened, as Dylan, Nella and the doctor looked out the window*"
+"*window and they were confused since everything became very different*"
+
+setBackground(forest)
+
+Doctor "What is happening?"
+
+narrator "*Suddenly a lady appeared before them*"
+
+
+
+
+
+
+
