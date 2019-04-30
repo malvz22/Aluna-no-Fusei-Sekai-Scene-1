@@ -1,8 +1,8 @@
-﻿/*using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CLM : MonoBehaviour
+/*public class CLM : MonoBehaviour
 {
 
     public static LINE Interpret(string rawLine)
@@ -116,7 +116,7 @@ public class CLM : MonoBehaviour
                 {
                     DialogueSystem.instance.Say(dialogue, line.speaker, pretext != null);
                 }
-                architect = DialogueSystem.instance.currentArchitect;
+
                 while (architect.isConstructing)
                     yield return new WaitForEndOfFrame();
                 running = null;

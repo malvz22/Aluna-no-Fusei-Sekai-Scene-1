@@ -66,6 +66,8 @@
     <Compile Include="Assets\Scripts\Core\DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Core\FileManager.cs" />
     <Compile Include="Assets\Scripts\Core\GlobalF.cs" />
+    <Compile Include="Assets\Scripts\Core\InputAndChoiceScreen\ChoiceButton.cs" />
+    <Compile Include="Assets\Scripts\Core\InputAndChoiceScreen\ChoiceScreen.cs" />
     <Compile Include="Assets\Scripts\Core\InputAndChoiceScreen\InputScreen.cs" />
     <Compile Include="Assets\Scripts\Core\InputAndChoiceScreen\TitleHeader.cs" />
     <Compile Include="Assets\Scripts\Core\Novel Controller\CLM.cs" />
@@ -73,6 +75,7 @@
     <Compile Include="Assets\Scripts\Core\TagManager.cs" />
     <Compile Include="Assets\Scripts\Core\TextArchitect.cs" />
     <Compile Include="Assets\Scripts\TEST[DELETE BEFORE PUBLISH]\characterTesting.cs" />
+    <Compile Include="Assets\Scripts\TEST[DELETE BEFORE PUBLISH]\choicesScreenTesting.cs" />
     <Compile Include="Assets\Scripts\TEST[DELETE BEFORE PUBLISH]\InputScreenTesting.cs" />
     <Compile Include="Assets\Scripts\TEST[DELETE BEFORE PUBLISH]\layerTesting.cs" />
     <Compile Include="Assets\Scripts\TEST[DELETE BEFORE PUBLISH]\Testing.cs" />
